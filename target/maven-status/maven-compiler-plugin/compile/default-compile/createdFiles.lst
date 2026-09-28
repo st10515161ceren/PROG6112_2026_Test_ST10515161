@@ -1,1 +1,6 @@
-com/mycompany/gamingconsole/GamingConsole.class
+com/mycompany/theconsoleclass/IConsole.class
+com/mycompany/theconsoleclass/ConsoleSales.class
+com/mycompany/theconsoleclass/RunApplication.class
+com/mycompany/theconsoleclass/TheConsoleClass.class
+com/mycompany/theconsoleclass/Console.class
+com/mycompany/theconsoleclass/ConsoleReport.class
